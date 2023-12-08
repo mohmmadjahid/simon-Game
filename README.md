@@ -1,3 +1,3 @@
 # simon-Game
 
-this game is bulid on HTML , CSS ,JAVASCRIPt
+this game is bulid on HTML , CSS ,JAVASCRIPT
